@@ -1,0 +1,6 @@
+.DS_Store
+.cache/
+.vendor/
+__pycache__/
+*.pyc
+tmp_*.png
